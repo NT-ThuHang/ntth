@@ -1,11 +1,10 @@
-title: Your awesome title
+title: NTTH
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: NT-ThuHang
+  email: thuhang.fit.hcmus@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Trên đây là blog cá nhân của mình, mình dùng nó để chia sẻ nhiều thứ về cuộc sống cũng như học thuật
+  của mình. Mục đích chính của blog này mình sẽ chia sẻ những gì mình học, những gì mình biết được.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
