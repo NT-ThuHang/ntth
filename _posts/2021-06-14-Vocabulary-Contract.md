@@ -7,16 +7,16 @@ author:
 ---
 ![contract](https://www.mccabeandco.com/wp-content/uploads/2019/11/con2.jpg)
 
-> "A **<span style="color:orange">constract</span>** is a **<span style="color:red">legally binding</span>** agreement which is **<span style="color:blue">recognizes</span>** and **<span style="color:blue">governs</span>** the **<span style="color:orange">rights</span>** and **<span style="color:orange">duties</span>** of the parties to the agreement."
+> "A **<span style="color:orange">contract</span>** is a **<span style="color:red">legally binding</span>** agreement which is **<span style="color:blue">recognizes</span>** and **<span style="color:blue">governs</span>** the **<span style="color:orange">rights</span>** and **<span style="color:orange">duties</span>** of the parties to the agreement."
 
 
-**<span style="color:orange">Constract</span>** là một **<span style="color:orange">integral part</span>** của nơi làm việc.<br/>
+**<span style="color:orange">Contract</span>** là một **<span style="color:orange">integral part</span>** của nơi làm việc.<br/>
 
-**<span style="color:orange">Target</span>** của một **<span style="color:orange">Constract</span>** là để **<span style="color:blue">establish</span>** một **<span style="color:orange">agreement</span>** giữa hai hay nhiều **<span style="color:orange">party</span>**. <br/>
+**<span style="color:orange">Target</span>** của một **<span style="color:orange">Contract</span>** là để **<span style="color:blue">establish</span>** một **<span style="color:orange">agreement</span>** giữa hai hay nhiều **<span style="color:orange">party</span>**. <br/>
 
-**<span style="color:orange">Constract</span>** **<span style="color:blue">specify</span>** các **<span style="color:orange">term</span>** và **<span style="color:blue">obligate</span>** các bên phải tuân theo.<br/>
+**<span style="color:orange">Contract</span>** **<span style="color:blue">specify</span>** các **<span style="color:orange">term</span>** và **<span style="color:blue">obligate</span>** các bên phải tuân theo.<br/>
 
-**<span style="color:orange">Constract</span>** thường bao gồm khoản tiền mà một khác hàng sẽ phải trẻ cho các **<span style="color:orange">constractor</span>** và dịch vụ được cung cấp.<br/>
+**<span style="color:orange">Contract</span>** thường bao gồm khoản tiền mà một khác hàng sẽ phải trẻ cho các **<span style="color:orange">constractor</span>** và dịch vụ được cung cấp.<br/>
 
 Ví dụ, trong văn phòng của bạn, bạn có thể có một hợp đồng cung cấp **<span style="color:orange">assurance</span>** máy photo in ấn hoặc điện thoại của bạn sẽ được sửa chữa trong một khoảng thời gian nhất định.<br/>
 Một hợp đồng thường nêu ra các cách để **<span style="color:blue">determine</span>** chất lượng của công việc hoặc dịch vụ được cung cấp có chấp nhận được hay không.<br/>
@@ -25,7 +25,7 @@ Một hợp đồng thường xác định cách thức để hai bên có thể
 
 # **<span style="color:pink">VOCABULARY</span>**
 
-1. **<span style="color:orange">constract</span>** : hợp đồng
+1. **<span style="color:orange">contract</span>** : hợp đồng
 2. **<span style="color:orange">integral part</span>** ~ **<span style="color:orange">important part</span>** :  phần quan trọng (thiết yếu)
 3. **<span style="color:orange">target</span>**: mục đích
 4. **<span style="color:blue">establish</span>**: thành lập, thiết lập
