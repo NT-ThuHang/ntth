@@ -48,3 +48,7 @@ Một hợp đồng thường xác định cách thức để hai bên có thể
 21. **<span style="color:orange">right</span>**: quyền lợi
 22. **<span style="color:orange">duty</span>**: bổn phận và quyền lợi
                    
+#### **<span style="color:pink">QUY ƯỚC</span>**
+ - **<span style="color:orange">IN ĐẬM MÀU CAM</span>** :  là danh từ
+ - **<span style="color:blue">IN ĐẬM MÀU XANH</span>** :  là động từ
+ - **<span style="color:red">IN ĐẬM MÀU ĐỎ</span>** :  là tính từ/trạng từ
