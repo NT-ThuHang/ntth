@@ -7,7 +7,7 @@ author:
 ---
 ![contract](https://www.mccabeandco.com/wp-content/uploads/2019/11/con2.jpg)
 
-> "A **<span style="color:orange">contract</span>** is a **<span style="color:red">legally binding</span>** agreement which is **<span style="color:blue">recognizes</span>** and **<span style="color:blue">governs</span>** the **<span style="color:orange">rights</span>** and **<span style="color:orange">duties</span>** of the parties to the agreement."
+> "A **<span style="color:orange">contract</span>** is a **<span style="color:red">legally binding</span>** agreement which **<span style="color:blue">recognizes</span>** and **<span style="color:blue">governs</span>** the **<span style="color:orange">rights</span>** and **<span style="color:orange">duties</span>** of the parties to the agreement."
 
 
 **<span style="color:orange">Contract</span>** là một **<span style="color:orange">integral part</span>** của nơi làm việc.<br/>
