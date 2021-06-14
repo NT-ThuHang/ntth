@@ -16,7 +16,7 @@ author:
 
 **<span style="color:orange">Contract</span>** **<span style="color:blue">specify</span>** các **<span style="color:orange">term</span>** và **<span style="color:blue">obligate</span>** các bên phải tuân theo.<br/>
 
-**<span style="color:orange">Contract</span>** thường bao gồm khoản tiền mà một khác hàng sẽ phải trẻ cho các **<span style="color:orange">constractor</span>** và dịch vụ được cung cấp.<br/>
+**<span style="color:orange">Contract</span>** thường bao gồm khoản tiền mà một khác hàng sẽ phải trẻ cho các **<span style="color:orange">contractor</span>** và dịch vụ được cung cấp.<br/>
 
 Ví dụ, trong văn phòng của bạn, bạn có thể có một hợp đồng cung cấp **<span style="color:orange">assurance</span>** máy photo in ấn hoặc điện thoại của bạn sẽ được sửa chữa trong một khoảng thời gian nhất định.<br/>
 Một hợp đồng thường nêu ra các cách để **<span style="color:blue">determine</span>** chất lượng của công việc hoặc dịch vụ được cung cấp có chấp nhận được hay không.<br/>
@@ -34,7 +34,7 @@ Một hợp đồng thường xác định cách thức để hai bên có thể
 7. **<span style="color:blue">specify</span>**: xác định
 8. **<span style="color:orange">term</span>**: điều khoản
 9. **<span style="color:blue">obligate</span>**: bắt buộc
-10. **<span style="color:orange">constractor</span>**: nhà thầu, bên thầu
+10. **<span style="color:orange">contractor</span>**: nhà thầu, bên thầu
 11. **<span style="color:orange">assurance</span>**: sự đảm bảo
 12. **<span style="color:blue">determine</span>**: xác định
 13. **<span style="color:blue">provide</span>**: cung cấp
