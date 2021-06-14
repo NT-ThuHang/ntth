@@ -20,7 +20,7 @@ author:
 
 Ví dụ, trong văn phòng của bạn, bạn có thể có một hợp đồng cung cấp **<span style="color:orange">assurance</span>** máy photo in ấn hoặc điện thoại của bạn sẽ được sửa chữa trong một khoảng thời gian nhất định.<br/>
 Một hợp đồng thường nêu ra các cách để **<span style="color:blue">determine</span>** chất lượng của công việc hoặc dịch vụ được cung cấp có chấp nhận được hay không.<br/>
-Một hợp đồng được soạn thảo chặt chẽ thường **<span style="color:blue">provide</span>** các cách thức để **<span style="color:blue"> resolve</span>** những vấn đề khi chung xảy ra. Trươc khi **<span style="color:blue">engage</span>** vào một hợp đồng, hai bên nên suy nghĩ cẩn thận, bởi vị hợp sẽ phải **<span style="color:blue">abibe by</span>** những điều kiện xác định trong hợp đồng.
+Một hợp đồng được soạn thảo chặt chẽ thường **<span style="color:blue">provide</span>** các cách thức để **<span style="color:blue"> resolve</span>** những vấn đề khi chung xảy ra. Trươc khi **<span style="color:blue">engage</span>** vào một hợp đồng, hai bên nên suy nghĩ cẩn thận, bởi vị hợp sẽ phải **<span style="color:blue">abide by</span>** những điều kiện xác định trong hợp đồng.
 Một hợp đồng thường xác định cách thức để hai bên có thể **<span style="color:blue">cancel</span>** việc hợp tác nếu một trong hai bên không tuân thủ các điều khoản.
 
 # **<span style="color:pink">VOCABULARY</span>**
@@ -40,7 +40,7 @@ Một hợp đồng thường xác định cách thức để hai bên có thể
 13. **<span style="color:blue">provide</span>**: cung cấp
 14. **<span style="color:blue"> resolve</span>** ~ **<span style="color:blue"> solve</span>** ~ **<span style="color:blue"> handle</span>**: giải quyết
 15. **<span style="color:blue">engage</span>** ~ **<span style="color:blue">involve</span>**: liên quan
-16. **<span style="color:blue">abibe by</span>** ~ **<span style="color:blue">comply with</span>**: tuân theo
+16. **<span style="color:blue">abide by</span>** ~ **<span style="color:blue">comply with</span>**: tuân theo
 17. **<span style="color:blue">cancel</span>**: hủy bỏ
 18. **<span style="color:red">legally binding</span>**: ràng buộc pháp lí
 19. **<span style="color:blue">recognize</span>**: công nhận
