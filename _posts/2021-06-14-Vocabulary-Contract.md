@@ -23,7 +23,7 @@ Một hợp đồng thường nêu ra các cách để **<span style="color:blue
 Một hợp đồng được soạn thảo chặt chẽ thường **<span style="color:blue">provide</span>** các cách thức để **<span style="color:blue"> resolve</span>** những vấn đề khi chung xảy ra. Trươc khi **<span style="color:blue">engage</span>** vào một hợp đồng, hai bên nên suy nghĩ cẩn thận, bởi vị hợp sẽ phải **<span style="color:blue">abide by</span>** những điều kiện xác định trong hợp đồng.
 Một hợp đồng thường xác định cách thức để hai bên có thể **<span style="color:blue">cancel</span>** việc hợp tác nếu một trong hai bên không tuân thủ các điều khoản.
 
-# **<span style="color:pink">VOCABULARY</span>**
+# **<span style="color:green">VOCABULARY</span>**
 
 1. **<span style="color:orange">contract</span>** : hợp đồng
 2. **<span style="color:orange">integral part</span>** ~ **<span style="color:orange">important part</span>** :  phần quan trọng (thiết yếu)
@@ -48,7 +48,7 @@ Một hợp đồng thường xác định cách thức để hai bên có thể
 21. **<span style="color:orange">right</span>**: quyền lợi
 22. **<span style="color:orange">duty</span>**: bổn phận và quyền lợi
                    
-#### **<span style="color:pink">QUY ƯỚC</span>**
+#### **<span style="color:green">QUY ƯỚC</span>**
  - **<span style="color:orange">IN ĐẬM MÀU CAM</span>** :  là danh từ
  - **<span style="color:blue">IN ĐẬM MÀU XANH</span>** :  là động từ
  - **<span style="color:red">IN ĐẬM MÀU ĐỎ</span>** :  là tính từ/trạng từ
