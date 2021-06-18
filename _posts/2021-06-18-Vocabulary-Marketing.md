@@ -17,7 +17,7 @@ Một khi có một cơ sở được **<span style="color:blue">establish</span
 Công việc của Linh là **<span style="color:blue">provide</span>** cho những khách hàng của anh ấy **<span style="color:orange">inspiration</span>** để tiếp tục đem lại cho anh ấy công việc kinh doanh. Để làm việc này, anh ấy sẽ phải **<span style="color:blue">convince</span>** khách hàng rằng anh ấy cung cấp một sản phẩm tốt với cái giá tốt, đặc biệt khi **<span style="color:blue">compare</span>** với các doanh nghiệm mà anh ấy **<span style="color:blue">compete</span>**. Anh ấy hi vọng rằng những người mua trái cây trên mạng Internet thì luôn ở đây chứ không phải chỉ là một phần của **<span style="color:orange">fad</span>**.
 
 
-# **<span style="color:pink">VOCABULARY</span>**
+# **<span style="color:green">VOCABULARY</span>**
 1. **<span style="color:orange">Marketing</span>** : tiếp thị 
 2. **<span style="color:orange">management</span>**: quản lí
 3. **<span style="color:orange">exchange relationship</span>**: mối quan hệ trao đổi
@@ -40,7 +40,7 @@ Công việc của Linh là **<span style="color:blue">provide</span>** cho nh�
 20. **<span style="color:blue">compete</span>**: cạnh tranh
 21. **<span style="color:orange">fad</span>**: xu thế
 
-#### **<span style="color:pink">QUY ƯỚC</span>**
+#### **<span style="color:green">QUY ƯỚC</span>**
  - **<span style="color:orange">IN ĐẬM MÀU CAM</span>** :  là danh từ
  - **<span style="color:blue">IN ĐẬM MÀU XANH</span>** :  là động từ
  - **<span style="color:red">IN ĐẬM MÀU ĐỎ</span>** :  là tính từ/trạng từ
