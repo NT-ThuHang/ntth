@@ -23,7 +23,7 @@ Hầu hết các bảo hành để hữu ích trong một khoảng thời gian n
 1. **<span style="color:red">commercial</span>**: tính thương mại
 2. **<span style="color:orange">consumer transactions</span>**: giao dịch tiêu dùng
 3. **<span style="color:orange"> warranty</span>**: bảo hành
-4. **<span style="color:orange"> article</span>**: mặt hàng
+4. **<span style="color:orange"> article</span>**: mặt hàng, vật phẩm, hàng, đồ.
 5. **<span style="color:orange"> service</span>**: sự phục vụ
 6. **<span style="color:red"> reasonably</span>**: một cách hợp lí
 7. **<span style="color:orange">promise</span>**: sự hứa hẹn
