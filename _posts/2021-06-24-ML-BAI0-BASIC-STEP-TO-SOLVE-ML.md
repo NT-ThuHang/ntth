@@ -56,6 +56,8 @@ Ngoài việc sử dụng ma trận nhầm lẫn (confusion matrix) và tính c�
 ![](https://www.researchgate.net/profile/Andreas-Fallgatter/publication/230830197/figure/fig1/AS:267609178374146@1440814408186/Confusion-matrix-summarizing-the-errors-made-by-the-classifier-on-the-test-set.png)
 
 ![](https://aiwithmisa.com/img/in-post/aml/roc-curve.png)
+
+
 Vòng cung ROC ở hình trên chính là đường xanh kẻ gạch, và AUC sẽ là diện tích bao bởi hình cung đó. AUC sẽ giao động từ 0 cho đến 1, càng gần 1 thì ML model có hiệu năng (performance) càng tốt.
 # **5. MỘT SỐ KHÁI NIỆM CƠ BẢN KHI TÌM HIỂU MACHINE LEARNING**
 Có những khái niệm cơ bản cần nắm khi tìm hiểu về Machine learning.
