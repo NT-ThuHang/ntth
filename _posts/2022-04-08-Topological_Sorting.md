@@ -50,7 +50,9 @@ Kết quả cuối cùng sau khi kết thúc thuật Kahn sẽ là danh sách c�
 Độ phức tạp: <!-- $\mathcal{O} \left( N \cdot \log(N) + M \right)$ --> <img style="transform: translateY(0.1em); background: white;" src="https://render.githubusercontent.com/render/math?math=%5Cmathcal%7BO%7D%20%5Cleft(%20N%20%5Ccdot%20%5Clog(N)%20%2B%20M%20%5Cright)"> với N là số công việc cần thực hiện, M là số cặp công việc phải thực hiện theo đúng thứ tự.
 
 ## [Code](https://github.com/NT-ThuHang/Practice-Coding-Skill/blob/main/BigO_Orange06/Topic%2001:%20Topological%20Sort/Topological%20Sorting/Topo_Sort.cpp) 
+
 ```c
+
 #include <iostream>
 #include <vector>
 #include <queue>
@@ -116,4 +118,5 @@ int main(){
     printf("\n");
 
     return 0;
-}```
+}
+```
