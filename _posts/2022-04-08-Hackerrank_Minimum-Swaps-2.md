@@ -87,7 +87,10 @@ So, we need a minimum of 3 swaps to sort the array in ascending order.
 ## Solution
 * If the position of a[i] already coincides with i+1, then ignore
 * Otherwise change a[i] to the a[i]-1th position and stay in place until at position i-1 is a[i]
+
+
 ## Code
+
 ```c
 void swap(int &a, int &b)
 {
