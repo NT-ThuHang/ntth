@@ -110,7 +110,7 @@ arr[10] = [3, 0, 0, 7, 0, -2, 0, 0, 0, -1]
 ```
 * End: the result is the largest sum of array.
 
-## Code
+## [Code](https://github.com/NT-ThuHang/Practice-Coding-Skill/blob/main/HackerRank/Array%20Manipulation/Array_Manipulation.cpp)
 
 ```c
 int main()

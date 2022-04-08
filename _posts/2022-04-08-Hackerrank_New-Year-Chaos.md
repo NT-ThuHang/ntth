@@ -67,7 +67,7 @@ Too chaotic
 * For each element to the number of elements greater than it is in front of it, this is simply understood that the person in the back wants to move forward.
 
 * If the position after shifting forward 3 units, the printout is too chaotic.
-## Code
+## [Code](https://github.com/NT-ThuHang/Practice-Coding-Skill/blob/main/HackerRank/New%20Year%20Chaos/New_Year_Chaos.cpp)
 
 ```c
 void minimumBribes(vector<int> q) 
